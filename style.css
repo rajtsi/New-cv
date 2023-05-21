@@ -1,0 +1,23 @@
+body { background-color: #d4dade;}
+
+    hr{ border-style:dotted none none;
+      width: 5%;
+      border-color: gray;
+      border-width: 4px;
+    }
+    .a{color: #66BFBF;
+     }
+    .b{color: black;}
+    img:hover{
+    background-color: black;
+   }
+    h3{color: #66BFBF;}
+    h4{color: #66BFBF;}
+    #raj{color: rgb(97, 3, 3);}
+
+    .www{height: 200px;
+      width: 780px;}
+      .pp{font-size:large;}
+      .rr{height: 150px;
+        width: 150px;}
+    
